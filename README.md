@@ -1,12 +1,12 @@
 # 1Password for Open Source Projects
 
-We rely on open source software every day to develop 1Password. It's fair to say that 1Password wouldn't exist without the open source community, so we want to give back and help teams be more productive and secure.
+We rely on open-source software every day to develop 1Password. It's fair to say that 1Password wouldn't exist without the open-source community, so we want to give back and help teams be more productive and secure.
 
-Are you working on an open source project that needs a password manager? How about a secure place to keep and share secrets — social media logins, code signing certificates, ssh keys, etc? We've got your back: get 1Password Teams free on us.
+Are you working on an open-source project that needs a password manager? How about a secure place to keep and share secrets — social media logins, code signing certificates, SSH keys, etc.? We've got your back: get 1Password Teams free on us.
 
 ## How to apply
 
-1. Create a team account: https://start.1password.com/signup/?t=B
+1. [Create a team account](https://start.1password.com/signup/?t=B)
 2. Invite at least one other person to your team and [add them to the Owners group](https://support.1password.com/groups/#manage-group-membership).
 3. Fork this repo and add an entry to the `Open source projects using 1Password Teams` section at the bottom of this page:
 
@@ -20,17 +20,17 @@ https://myawesomeproject.org
 
 ## Requirements
 
-To apply, you need to be a core contributor for an active open source project that is at least 30 days old. We’ll also accept applications from the organisers of community meetups and events, as well as some conferences.
+To apply, you need to be a core contributor for an active open-source project that is at least 30 days old. We’ll also accept applications from the organizers of community meetups and events, as well as some conferences.
 
-Projects need to use a standard open source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
+Projects need to use a standard open-source license and must be non-commercial. If your company is looking for an enterprise password manager, check out [1Password Business](https://1password.com/business/).
 
-If you're not sure if your project meets these requirements, ask us [@1Password](https://twitter.com/1password) or opensource@1password.com.
+If you're not sure if your project meets these requirements, ask us at [@1Password](https://twitter.com/1password) or opensource@1password.com.
 
 ## Membership details
 
 - You'll receive a membership to [1Password Teams](https://1password.com/teams).
 - You can invite core contributors to your team account.
-- Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS and web.
+- Team members can use the 1Password apps on all devices — Mac, Windows, iOS, Android, Linux, Chrome OS, and the web.
 - Your membership does not expire. If you signed up before November 26, 2021, please contact opensource@1password.com to convert your two-year membership into one that doesn't need to be renewed.
 - Memberships cannot be transferred or sold.
 
@@ -76,7 +76,7 @@ https://www.coreboot.org
 
 ### Pluto Video Snapshoter
 
-Cross platform video snapshot software, stitching snapshots automatically with subtitle detection.
+Cross-platform video snapshot software, stitching snapshots automatically with subtitle detection.
 A short description of what we do.
 http://pluto.shootsoft.net
 
@@ -90,7 +90,7 @@ https://libgit2.github.com
 
 ### Textpattern CMS
 
-A flexible, elegant, fast and easy-to-use content management system written in PHP.
+A flexible, elegant, fast, and easy-to-use content management system written in PHP.
 https://textpattern.com
 
 ### Express Gateway
@@ -110,7 +110,7 @@ https://github.com/ssl/ezXSS
 
 ### SimplePresence
 
-SimplePresence is an open source and non profit app that allows developers (and other consumers) set their status on the popular chat app, Discord.
+SimplePresence is an open-source and non-profit app that allows developers (and other consumers) to set their status on the popular chat app, Discord.
 https://github.com/justjs/simplepresence
 
 ### MLTSHP
@@ -148,17 +148,17 @@ https://github.com/hansemannn/ti.onepassword
 
 ### Broadcast
 
-The broadcast app is a way of connecting groups in chat rooms over SMS, no app required! Users can be invited, leave, and mute chat rooms with others that have similar interests or friends of friends that haven't shared phone numbers yet. Text one number and broadcast your text to the whole group!
+The broadcast app is a way of connecting groups in chat rooms over SMS, no app is required! Users can be invited, leave, and mute chat rooms with others that have similar interests or friends of friends that haven't shared phone numbers yet. Text one number and broadcast your text to the whole group!
 https://github.com/rkk09c/Broadcast
 
 ### PyGotham
 
-[PyGotham](https://pygotham.org) is a New York City based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
+[PyGotham](https://pygotham.org) is a New York City-based, eclectic, Py-centric conference covering many topics. There’s a diverse speaker list, and some things which will be quite different. [Source code](https://gitlab.com/pygotham/)
 
 ### Bokeh
 
 Bokeh ([Main Site](https://bokeh.org) |
-[GitHub](https://github.com/bokeh/bokeh)) is a BSD licensed interactive
+[GitHub](https://github.com/bokeh/bokeh)) is a BSD-licensed interactive
 visualization library for Python that enables beautiful and meaningful visual
 presentation of data in modern web browsers. Bokeh provides an elegant and concise
 way to construct versatile graphics while delivering **high-performance**
@@ -166,7 +166,7 @@ interactivity for large or streamed datasets.
 
 ### Vizzy
 
-Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel by pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views.
+Vizzy is a powerful Ruby on Rails web server that facilitates Visual Automation, a continuous integration testing strategy that aims to prevent visual regressions. It does this by performing pixel-by-pixel comparisons of screenshots captured during test runs. In doing so, it tests application data as well as application views.
 https://github.com/Workday/vizzy)
 
 ### Phalcon
